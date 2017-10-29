@@ -1,0 +1,25 @@
+option {
+  padding: 6px 28px 6px 0;
+}
+#fst {
+margin-left: 90px;
+}
+select {
+background: #d7ddda;
+font-size: 16px;
+border: 1px solid #ccc;
+margin-left: 10px;
+}
+div {
+margin:0px auto;
+}
+p {
+font-size: 20px;
+font: bold;
+text-align: left;
+margin:0px;
+position: absolute;
+}
+option[value = '0'] {
+	background-color: #10b26e;
+}
